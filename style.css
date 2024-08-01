@@ -328,8 +328,8 @@ body {
 
 .code-container {
   background-color: #001f3f;
-  color: #fff;
-  font-size: 1.4rem;
+  color: #f7e9e9;
+  font-size: 1.3rem;
   max-width: fit-content;
   text-align: start;
   border-radius: 30px;
@@ -612,7 +612,6 @@ figure {
   border: none;
   background-color: #001f3f;
   cursor: pointer;
-
 }
 
 .card-link {
@@ -622,17 +621,14 @@ figure {
   border: none;
   padding: 0.5rem 2rem;
   font-size: 1.5rem;
-  transition: all  3s ease 0;
+  transition: all 3s ease 0;
   color: #fff;
-
 }
 
 .btn-card-link:hover,
 .btn-card-link:active {
   background-color: #023160;
   color: #fff;
-
-
 }
 
 .icon {
@@ -661,8 +657,7 @@ figure {
   margin-bottom: 2rem;
 }
 .gallery-img {
- padding: 0.5rem;
- 
+  padding: 0.5rem;
 }
 .gallery-img img {
   height: 12rem;
@@ -676,7 +671,6 @@ figure {
 
 .animated {
   transition: all 0.5s;
-
 }
 .animated:hover {
   transform: scale(1.1);
@@ -725,7 +719,6 @@ figure {
   border-radius: 12px;
   margin-bottom: 2rem;
   cursor: pointer;
-
 }
 
 .heading-list {
@@ -753,12 +746,10 @@ figure {
   margin-bottom: 0.8rem;
   margin-left: 0.5rem;
   padding: 0.3rem;
-
 }
 
 .Categories-list input {
   margin-right: 0.7rem;
- 
 }
 
 /*********************************/
@@ -918,7 +909,7 @@ figure {
 /* toast section */
 /*********************************/
 
-.toast{
+.toast {
   max-width: 65rem;
   justify-self: center;
 }
@@ -963,8 +954,6 @@ figure {
   background-color: rgb(227, 242, 19);
   color: #fff;
   border-radius: 50%;
-
-
 }
 .icons-error {
   border-radius: 50%;
@@ -976,13 +965,11 @@ figure {
   font-size: 2rem;
   justify-self: center;
   align-self: center;
- 
 }
 
 .toast-text {
   font-size: 1.3rem;
   color: #000;
- 
 }
 
 .heading-toast {
@@ -996,7 +983,7 @@ figure {
 /* table section */
 /*********************************/
 
-.table{
+.table {
   max-width: 70%;
   justify-self: center;
 }
@@ -1034,7 +1021,7 @@ tbody tr:nth-child(even) {
 /* form section */
 /*********************************/
 
-.form{
+.form {
   max-width: 80%;
   justify-self: center;
 }
